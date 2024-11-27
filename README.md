@@ -37,3 +37,8 @@ Endpoints:
   /pagamentos/excluir/codigo/{codigo}
   
     deleta logicamente por codigo
+
+
+  O banco de dados H2 pode ser acessado via console em localhost:8080/banco
+  login: sa
+  senha: senha
